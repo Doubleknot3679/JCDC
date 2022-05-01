@@ -1,2 +1,0 @@
-# JCDC
-Created with CodeSandbox
